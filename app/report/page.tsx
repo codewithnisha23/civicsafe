@@ -53,7 +53,7 @@ export default function ReportPage() {
                     description: form.description,
                     location: form.location,
                     category: form.category,
-                    caseId: caseId,
+                    case_id: caseId,
                     image_url: imageUrl
                 })
             });
